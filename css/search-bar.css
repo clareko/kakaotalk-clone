@@ -12,11 +12,11 @@
   background-color: #f1f2f3;
   font-size: 13px;
   text-align: center;
-  transition: border-color 0.2s linear;
+  transition: border 0.2s linear;
 }
 .search-bar input:focus {
   outline: none;
-  border-color: #ffe94a;
+  border: 1px solid #ffe934;
 }
 .search-bar i {
   position: absolute;
